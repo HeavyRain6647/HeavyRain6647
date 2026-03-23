@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! Я Магомед 👋
 
-<!--
-**HeavyRain6647/HeavyRain6647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Automation Engineer с фокусом на автоматизацию тестирования UI и API на Python. Перехожу в QA из технического менеджмента, поэтому умею работать с документацией и брать на себя ответственность за результат.
 
-Here are some ideas to get you started:
+### 🛠 Технологии и инструменты:
+* **Языки:** Python (Pytest, Unittest)
+* **UI-тестирование:** Selenium WebDriver (Page Object Model)
+* **API-тестирование:** Requests, Postman
+* **Инструменты:** Git, SQL, Pytest-cov (100% покрытие), Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мои ключевые проекты:
+* **Stellar Burgers (Full Cycle):** Комплексная автоматизация UI и API для сервиса заказа бургеров (Diplom 1, 2, 3).
+* **Яндекс.Самокат:** Автоматизация сложных UI-сценариев и работы с формами.
+
+### 📫 Связь со мной:
+* **Telegram:** [@ArthurBooRadley](https://t.me/ArthurBooRadley)
+* **Статус:** Открыт к предложениям на позицию Junior / Middle QA Automation.
