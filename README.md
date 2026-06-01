@@ -13,5 +13,5 @@
 * **Яндекс.Самокат:** Автоматизация сложных UI-сценариев и работы с формами.
 
 ### 📫 Связь со мной:
-* **Telegram:** [@ArthurBooRadley](https://t.me/ArthurBooRadley)
+* **Telegram:** [@Heavy_Rain47](https://t.me/Heavy_Rain47)
 * **Статус:** Открыт к предложениям на позицию Junior / Middle QA Automation.
